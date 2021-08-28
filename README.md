@@ -1,9 +1,11 @@
 # Classificador de Spam com Naive Bayes e SKLearn
 
-## Equipe
-Willian de Mattos
+# Link GitHub
+https://github.com/zwillianmattos/data-science-spam-classifier#readme
 
-Yohan Navarro
+## Equipe
+- Willian de Mattos
+- Yohan Navarro
 
 ## Todo
 Desenvolva um modelo para classificação de mensagens de e-mail como Spam
